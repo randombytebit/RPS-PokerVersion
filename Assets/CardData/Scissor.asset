@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b0037640b55647ba81a5d297bf1f3f1, type: 3}
+  m_Name: Scissor
+  m_EditorClassIdentifier: 
+  cardImage: {fileID: -7787360922138207735, guid: 2f9463ab4826144eaa2e59f1ea75293b, type: 3}
+  cardName: Scissor
+  beats: {fileID: 11400000, guid: 6ea452227fbb3422b8f2cd614564f292, type: 2}
